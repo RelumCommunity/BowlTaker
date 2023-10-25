@@ -1,5 +1,6 @@
 name: BowlTaker
-main: com.vaincecraft.bowltaker.main.Main
-version: 1.2
+main: com.relumcommunity.bowltaker.main.Main
+version: 1.9
 author: nato3623
 description: Remove Bowls
+api-version: 1.13
